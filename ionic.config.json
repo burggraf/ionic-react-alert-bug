@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-alert-bug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
